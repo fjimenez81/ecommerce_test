@@ -94,7 +94,7 @@ function App() {
 					
 				}
 				<div className={`w-[33%] ${checkout} 2xl:block h-[140vh] border
-								border-solid border-black p-4 px-10 rounded-md`}>
+								border-solid border-black p-4 px-3 2xl:px-10 rounded-md`}>
 					<div className="flex justify-center my-4 mb-10">
 						<button onClick={showCheckout}
 							className='2xl:hidden bg-blue-500 px-4 py-2 mx-2 font-semibold
